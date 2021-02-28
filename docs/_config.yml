@@ -3,7 +3,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: AngelosZagouris
+name: Angelos Zagouris
 title: Help Desk Analyst
 email: p13zago@inio.gr
 cv   : "AggelosZagourisCV0.pdf"
@@ -11,7 +11,7 @@ cv   : "AggelosZagourisCV0.pdf"
 
 # Social links
 github_username:  AggZag
-facebook_link: https://www.facebook.com/aggelos.dauntless
+facebook_link: AggelosZagouris
 instagram_username: https://www.instagram.com/aggeloszagouris/
 linkedin_username: https://www.linkedin.com/in/aggelos-zagouris-22040186/
 
