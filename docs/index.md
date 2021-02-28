@@ -1,7 +1,4 @@
 ---
-layout: page
-title: About Me
-order: 1
+# To change the default theme layout see: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
 ---
-
-This is now the homepage.
