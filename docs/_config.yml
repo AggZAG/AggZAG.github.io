@@ -10,25 +10,21 @@ cv   : "AggelosZagourisCV0.pdf"
 #website: Your website (eg. https://google.com)(optional)
 
 # Social links
-#twitter_username: jekyllrb
-github_username:  moya10
-#dribbble_username: jekyll
-#facebook_username: jekyll
-#flickr_username: jekyll
-#instagram_username: jekyll
-#linkedin_username: jekyll
-#xing_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-#googleplus_username: +jekyll
+github_username:  AggZag
+facebook_username: Aggelos Zagouris
+instagram_username: Aggelos Zagouris
+linkedin_username: Angelos Zagouris
 
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+  Dealing with hardware and software problems from fourteen years old.Ready to assess
+the problem and actively deal with it as fast as possible.Comfortable working in a team
+ready to give and learn from it.Always working with responsibility toward the company
+and being ecient with the task at hand.Actively organizing the tasks tha need to be
+done and solve them with order.
+  Down Below there is a link for my resume
     - [My Awesome Resume](https://github.com/AggZAG/AggZAG.github.io/blob/main/docs/AggelosZagourisCV0.pdf)
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
