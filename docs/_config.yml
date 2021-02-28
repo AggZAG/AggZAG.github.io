@@ -5,9 +5,8 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Angelos Zagouris
 title: Help Desk Analyst
-email: Your email (optional)
-phone: Your phone number (optional)
-cv   : "resume.pdf"
+email: p13zago@inio.gr
+cv   : "AggelosZagourisCV0.pdf"
 #website: Your website (eg. https://google.com)(optional)
 
 # Social links
@@ -30,11 +29,7 @@ about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
-    - Tables
-    - Links
-    - Images
-
+    - [My Awesome Resume](https://github.com/AggZAG/AggZAG.github.io/blob/main/docs/AggelosZagourisCV0.pdf)
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
