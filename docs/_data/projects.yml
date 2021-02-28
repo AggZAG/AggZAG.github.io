@@ -1,9 +1,9 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Software Technology 
+  link: https://aggzag.github.io/
+  github: https://github.com/AggZAG/AggZAG.github.io
   quote: >
-    Short overview of the project (optional)
+    Creation of resume using Jekyll and YAML
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    
