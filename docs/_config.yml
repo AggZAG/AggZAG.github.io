@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Angelos Zagouris
-title: Your job title
+title: Help Desk Analyst
 email: Your email (optional)
 phone: Your phone number (optional)
 cv   : "resume.pdf"
