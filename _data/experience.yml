@@ -1,0 +1,11 @@
+# Experience template
+- layout: left
+  company: C3I Solutions
+  link: https://www.c3isolutions.com/
+  job_title: Help Desk Analyst
+  dates: December 2020 - Present
+  quote: >
+   Short description of the company (optional)
+  description: First line of help for the supported Company employees to the daily issues with their laptop and etc
+  | # this will include new lines to allow paragraphs
+    Description of role

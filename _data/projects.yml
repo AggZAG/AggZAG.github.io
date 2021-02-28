@@ -1,0 +1,9 @@
+# Project template
+- layout: top-middle
+  name: Technology of Software
+  link: https://aggzag.github.io/
+  github: https://github.com/AggZAG/AggZAG.github.io
+  quote: >
+    Short overview of the project (optional)
+  description: Creation of resume - CV using Jekyl and Yaml| # this will include new lines to allow paragraphs
+    
