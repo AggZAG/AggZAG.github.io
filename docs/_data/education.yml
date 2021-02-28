@@ -1,10 +1,9 @@
 # Education Template
 - layout: left
-  name: ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ,ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ
-  dates: 2013 - 2019
-  qualification: BA Informational Systems
+  name: Institution name
+  dates: Date Range (eg. 2016 - 2019)
+  qualification: Qualifications (eg. BA Performing Arts)
   quote: >
-    short institution or course description (optional)
-  description: The ability to create and change Informational Systems
-  | # this will include new lines to allow paragraphs
-    
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
